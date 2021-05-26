@@ -71,7 +71,7 @@
     "lodash.merge": "^4.6.2",
     "minimist": "^1.2.0",
     "nan": "^2.10.0",
-    "ws": "^5.2.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
